@@ -157,6 +157,10 @@ ol li {
   margin: 20px auto;
 }
 
+.border { 
+  border: 2px solid black;
+}
+
 #main, #container, #logo, #site_content, footer { 
   margin-left: auto; 
   margin-right: auto;
