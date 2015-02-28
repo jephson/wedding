@@ -1,3 +1,11 @@
+#map-canvas {
+    height: 500px;
+    margin: 0;
+    padding: 0;
+    color: black;
+    text-shadow: none;
+}
+
 @font-face { 
   font-family: Droid Sans; 
     src: url('../fonts/DroidSans-webfont.eot'); 
