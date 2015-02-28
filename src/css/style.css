@@ -170,7 +170,7 @@ header {
 }
 
 #logo #logo_text { 
-  width: 330px;
+  width: 500px;
   border-radius: 7px;
   -moz-border-radius: 7px;
   -webkit-border: 7px;
@@ -280,9 +280,7 @@ nav {
 
 .content { 
   text-align: left;
-  width: 700px;
-  margin: 0 20px 15px 0;
-  float: right;
+  margin: 0 20px 15px 20px;
   font-size: 120%;
   padding: 14px 0 0 0;}
   
